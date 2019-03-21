@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Instalation
+```javascript 1.8
+npm install @material-ui/core
+```
+Data picker - MIT licence
+```javascript 1.8
+
+```
+
+
+- 
+
 ## Available Scripts
 
 In the project directory, you can run:
